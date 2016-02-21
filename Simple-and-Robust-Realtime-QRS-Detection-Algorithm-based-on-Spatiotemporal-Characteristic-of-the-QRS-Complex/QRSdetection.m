@@ -46,18 +46,18 @@ end
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-  wsize1 = 0.15;  % size of 1st MAF
-  wsize2 = 0.2;   % size of 2nd MAF
-  refractory_time = 0.15;   
-  thEL0 = 0.1;  % threshold for Energy Level Detection
-  stabLevel = 0.5;
-  r_a = 0.1;
-  r_b = 0.05;
-  r_nr = 1.75;
-  r_s = 0.001;
-  r_d = 0.05;
-  r_n = 0.03;
-  Weight = 1;
+wsize1 = 0.15;  % size of 1st MAF
+wsize2 = 0.2;   % size of 2nd MAF
+refractory_time = 0.15;   
+thEL0 = 0.1;  % threshold for Energy Level Detection
+stabLevel = 0.5;
+r_a = 0.1;
+r_b = 0.05;
+r_nr = 1.75;
+r_s = 0.001;
+r_d = 0.05;
+r_n = 0.03;
+Weight = 1;
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
