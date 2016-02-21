@@ -1,7 +1,7 @@
 # QRS-Detection
 %%
 %
-% This code is for QRS complex detection of Electrocardiogram
+# This code is for QRS complex detection of Electrocardiogram
 % Description of attached files is as follow.
 %
 % sample_main.m : An example for testing (Test code)
